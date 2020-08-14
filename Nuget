@@ -1,0 +1,4 @@
+Nuget:
+  Prob: Assets file project.assets.json not found. Run a NuGet package restore
+  Sol: dotnet restore
+  link: https://stackoverflow.com/questions/48440223/assets-file-project-assets-json-not-found-run-a-nuget-package-restore
